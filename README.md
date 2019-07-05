@@ -1,2 +1,2 @@
-# Hello-World
-a basic intro repository
+# Fall Hackathon
+Shows program my team and I did for our hackathon
